@@ -22,6 +22,6 @@ Common issues include:
 
 If you want a step-by-step explanation with the current APK version, you can check this guide:
 
-👉 https://web11guide.com/web-11-apk-download
+👉 https://web11guide.com/web11-app.html
 
 It explains the installation process clearly and helps avoid common errors.
